@@ -38,7 +38,7 @@ This profile is where I document my hands-on labs, CTF writeups, and security pr
 
 ### 📫 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/harigovind-valyethu) · Open to SOC Analyst / Junior Security Analyst roles in the UK
+[LinkedIn](https://www.linkedin.com/in/harigovindv1010/) · Open to SOC Analyst / Junior Security Analyst roles in the UK
 
 ---
 
